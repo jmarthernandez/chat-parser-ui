@@ -23,6 +23,7 @@
     "@jmarthernandez/express-spa": "0.0.1",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.5.2",
     "babel-preset-stage-2": "^6.24.1",

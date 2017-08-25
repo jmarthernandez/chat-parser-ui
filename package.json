@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "4.1.1"
+  },
   "scripts": {
     "start": "webpack --progress --colors --watch",
     "prod": "webpack -p",
